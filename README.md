@@ -1,2 +1,2 @@
-# base-project-angular
-Angular Base Project
+# baseproject-angular
+Projeto base em Angular 7
